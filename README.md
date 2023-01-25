@@ -9,4 +9,4 @@ This tutorial is great for learning how Git works.
 
 It now includes steps for Git.
 
-Still leanring about git.
+Still learning about git.
